@@ -1,0 +1,27 @@
+# Compiled files
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+.vscode/
+
+# Logs
+*.log
+
+# Hibernate & DB config (si contient des mots de passe)
+hibernate.cfg.xml
+application.properties
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Maven/Gradle
+target/
+build//target/
