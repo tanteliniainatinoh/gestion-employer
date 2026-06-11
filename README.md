@@ -3,8 +3,6 @@
 ## 📋 Description
 Application de gestion des employés développée en **Java Desktop** avec **Hibernate** et **MySQL**.
 
-> **⚠️ Note :** Ce projet a été initialement développé dans le dépôt d'un ami. Je l'ai récupéré et je poursuis son développement dans ce dépôt personnel.
-
 ## 🛠️ Technologies utilisées
 - **Java** (Desktop - Swing/JavaFX)
 - **Hibernate** (ORM)
